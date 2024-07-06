@@ -1,7 +1,7 @@
 # Eventual Harmony
 A small musical experiment made with Unity3D.
 
-![Screenshot of the application](https://raw.githubusercontent.com/ivankarez/EventualHarmony/main/Images/eh_printscreen.png)
+![Screenshot of the application](https://github.com/ivankarez/EventualHarmony/blob/main/Images/eh_printscreen.png?raw=true)
 
 __Demo video:__  [Youtube](https://youtu.be/DhzbadYq344)
 
